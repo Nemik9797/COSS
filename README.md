@@ -3,7 +3,7 @@
 // structures by method of compare symbolic sequences or it's short name  
 // ------------------Comparison Of Spatial Structures  <C O S S>-------------------
 
-<====================================> README <====================================> 
+<=====================> README <=====================> 
 
 All files of this archive must be unzipped and put together in a separate folder
 
